@@ -1,0 +1,16 @@
+# Core numerical & data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Deep learning backbone
+torch==2.3.1
+
+# NLP / embeddings
+transformers==4.44.2
+sentence-transformers==3.0.1
+
+# Vector similarity search
+faiss-cpu==1.8.0.post1
+
+# Optional: cleaner regex operations (standard `re` works too)
+regex==2024.5.15
